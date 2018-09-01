@@ -1,0 +1,6 @@
+C:\!Work\FL\ExpiredDomainsAutomation\ExpiredDomainsAutomation\bin\Debug\ExpiredDomainsAutomation.exe.config
+C:\!Work\FL\ExpiredDomainsAutomation\ExpiredDomainsAutomation\bin\Debug\ExpiredDomainsAutomation.exe
+C:\!Work\FL\ExpiredDomainsAutomation\ExpiredDomainsAutomation\bin\Debug\ExpiredDomainsAutomation.pdb
+C:\!Work\FL\ExpiredDomainsAutomation\ExpiredDomainsAutomation\obj\Debug\ExpiredDomainsAutomation.csprojResolveAssemblyReference.cache
+C:\!Work\FL\ExpiredDomainsAutomation\ExpiredDomainsAutomation\obj\Debug\ExpiredDomainsAutomation.exe
+C:\!Work\FL\ExpiredDomainsAutomation\ExpiredDomainsAutomation\obj\Debug\ExpiredDomainsAutomation.pdb
